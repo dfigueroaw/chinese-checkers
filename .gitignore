@@ -1,2 +1,5 @@
 # Ignorar el entorno virtual
 .venv
+
+# Ignorar el archivo de prueba de colores
+colores.py
